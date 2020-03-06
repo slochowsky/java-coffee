@@ -1,0 +1,15 @@
+.single_employee {
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px ridge royalblue;
+    max-width: 20em;
+    margin: 1%;
+    justify-content: space-between;    
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: underline;
+}
